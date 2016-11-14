@@ -1,4 +1,4 @@
-# dataTypeTests
+# dataTypeTester
 library of data tupe tests for data types
 
 ''javascript
