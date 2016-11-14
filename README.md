@@ -1,13 +1,13 @@
 # dataTypeTester
 library of data tupe tests for data types
 
-''javascript
+```javascript
    
    var arrDataTypes=[];
    //pass in the data to be evaluated, best to pass in a batch of values from the same field get back an array of data types
    arrDataTypes=objDataTester.test(arrValues)
    
-'''
+```
 
 
 ## Numbers
