@@ -1,5 +1,12 @@
-# regexTests
-library of regex tests for data types
+# dataTypeTests
+library of data tupe tests for data types
+
+## Numbers
+
+1. unixtime
+1. javascript time
+
+## Strings
 
 1. ip
 1. email
