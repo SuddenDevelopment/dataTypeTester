@@ -1,0 +1,29 @@
+{
+  "name": "datatypetester",
+  "version": "1.0.0",
+  "description": "test an value or array of values for data types found",
+  "main": "datatypetester.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha -R spec ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuddenDevelopment/dataTypeTester.git"
+  },
+  "keywords": [
+    "json",
+    "schema",
+    "discovery"
+  ],
+  "author": "Anthony Aragues <anthony.aragues@gmail.com> (http://suddendevelopment.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuddenDevelopment/dataTypeTester/issues"
+  },
+  "homepage": "https://github.com/SuddenDevelopment/dataTypeTester"
+}
