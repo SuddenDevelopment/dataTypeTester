@@ -6,7 +6,9 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "suddenutils": "git+https://github.com/SuddenDevelopment/utils.git#master"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "mocha -R spec ./test"
